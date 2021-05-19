@@ -1,0 +1,16 @@
+D:\University\Computer Graphics\Tomogram\Tomogram\bin\Debug\Tomogram.exe.config
+D:\University\Computer Graphics\Tomogram\Tomogram\bin\Debug\Tomogram.exe
+D:\University\Computer Graphics\Tomogram\Tomogram\bin\Debug\Tomogram.pdb
+D:\University\Computer Graphics\Tomogram\Tomogram\bin\Debug\OpenTK.dll
+D:\University\Computer Graphics\Tomogram\Tomogram\bin\Debug\OpenTK.GLControl.dll
+D:\University\Computer Graphics\Tomogram\Tomogram\bin\Debug\OpenTK.pdb
+D:\University\Computer Graphics\Tomogram\Tomogram\bin\Debug\OpenTK.xml
+D:\University\Computer Graphics\Tomogram\Tomogram\bin\Debug\OpenTK.dll.config
+D:\University\Computer Graphics\Tomogram\Tomogram\bin\Debug\OpenTK.GLControl.xml
+D:\University\Computer Graphics\Tomogram\Tomogram\obj\Debug\Tomogram.Form1.resources
+D:\University\Computer Graphics\Tomogram\Tomogram\obj\Debug\Tomogram.Properties.Resources.resources
+D:\University\Computer Graphics\Tomogram\Tomogram\obj\Debug\Tomogram.csproj.GenerateResource.cache
+D:\University\Computer Graphics\Tomogram\Tomogram\obj\Debug\Tomogram.csproj.CoreCompileInputs.cache
+D:\University\Computer Graphics\Tomogram\Tomogram\obj\Debug\Tomogram.csproj.CopyComplete
+D:\University\Computer Graphics\Tomogram\Tomogram\obj\Debug\Tomogram.exe
+D:\University\Computer Graphics\Tomogram\Tomogram\obj\Debug\Tomogram.pdb
